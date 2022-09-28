@@ -1,4 +1,4 @@
--  Hi there , I’m Burak KURT
+-  Hi there , I’m Burak KURT.
 -  I’m studying at Gebze Technical University.
 -  I’m currently learning c++ and oop.
 <!---
